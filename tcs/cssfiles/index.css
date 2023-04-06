@@ -1,0 +1,159 @@
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+.s1 {
+    background-color: black;
+    color: white;
+}
+
+.s2 {
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+.c1 {
+    padding: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.cc {
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    border: 4px solid rgb(193, 49, 73);
+}
+
+.m {
+    border-radius: 10px;
+    background-color: grey;
+    height: 300px;
+    position: relative;
+    z-index: 9999999;
+
+}
+
+.cl {
+    height: 250px;
+    width: 446px;
+    border-radius: 10px;
+    background-color: greY;
+    position: absolute;
+    top: 450px;
+    z-index: -1;
+    margin-left: 50px;
+
+}
+
+.s3 {
+    color: white;
+    background-color: black;
+    height: 1000px;
+}
+
+.cm {
+    height: 900px;
+    width: 100%;
+    padding: 50px;
+
+
+}
+
+.hh {
+    margin-top: -900px;
+    width: 650px;
+    padding: 160px;
+}
+
+.hp {
+    border: none;
+    border-radius: 10px;
+    background-color: grey;
+}
+
+.s4 {
+    display: flex;
+    justify-content: space-evenly;
+    color: white;
+    margin-top: -230px;
+
+}
+
+.v {
+    height: 200px;
+    width: 270px;
+    border: 2px solid white;
+    padding: 30px;
+    background-color: black;
+}
+
+.im {
+    width: 70%;
+    margin-top: 100px;
+    position: relative;
+}
+
+.mm {
+    height: 370px;
+    width: 700px;
+    padding: 40px;
+    background-color: white;
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 700px;
+}
+.som{
+    margin-top:50px;
+}
+
+
+.yo {
+    height: 370px;
+    width: 700px;
+    padding: 40px;
+    background-color: white;
+    position: absolute;
+    margin-top: 270px;
+    z-index: 1000000;
+}
+
+.yi {
+    width: 70%;
+    margin-left: 450px;
+    position: relative;
+    margin-top: 100px;
+    z-index: -1;
+}
+.ss{
+    margin-top:100px ;
+    background-color: rgb(38, 35, 35);
+}
+.div1{
+    display: flex;
+}
+.cof{
+    margin-top:-200px;
+    color:white;
+    padding:20px;
+}
+.o{
+    display: flex;
+    justify-content: space-evenly;
+}
+.gg{
+    height:400px ;
+     width:400px;
+}
+.card{
+    overflow: hidden;
+}
+.card-img-top:hover{
+    transform: scale(2,2);
+    transition-duration: 3s;
+    scroll-behavior: smooth;
+   
+}
